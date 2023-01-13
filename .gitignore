@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+null
+*.class 
+*.tasty
+.scala-build
